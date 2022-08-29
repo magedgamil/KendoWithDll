@@ -1,1 +1,1 @@
-# This is s source for using kendo using core
+# This is a source for using kendo using core
